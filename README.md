@@ -26,12 +26,12 @@ The  dataset inclodes features such as customer demographics, policy information
 - LightGBM was tuned with specific hyperparameters to optimize F1 score.
 - DeepLearning model trained with 50 epochs and reached ~84% accuracy.
 
-Future work 
+## Future work 
 - Address class class imbalance with oversampling or weighted loss.
 - Hyperparameter tuning with cross-validation.
 - Deploy the model as an API.
 
-Author
+## Author
 Faride Jafari
 
 
