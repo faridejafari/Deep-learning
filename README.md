@@ -2,7 +2,7 @@
 
 # Insurance Fraud Detection Using Deep Learning
 
-## Projject Overview
+## Project Overview
 This project aims to detect fraudlent insurance claims using machine learning and deep learning techniques. 
 
 ## Dataset
