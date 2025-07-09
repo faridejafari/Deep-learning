@@ -32,7 +32,7 @@ Future work
 - Deploy the model as an API.
 
 Author
- Faride Jafari
+Faride Jafari
 
 
 
